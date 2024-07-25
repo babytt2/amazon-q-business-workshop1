@@ -9,13 +9,13 @@ Amazon Q Business 핸즈온 과정에서 참석해주셔서 감사합니다.
 
 
 2. AWS 콘솔 상단 메뉴에서 US East(N. Virginia) 리전을 선택합니다.
-<img src="images/00_Region.png" width="500">
+<img src="images/00_Region.png" width="300">
 
 3. 다음 Amazon Q Business를 검색하여 클릭합니다.
-<img src="images/01_AmazonQBusiness.png" width="500">
+<img src="images/01_AmazonQBusiness.png" width="700">
 
 4. Amazon Q Business 서비스에서 Get Started를 클릭합니다.
-<img src="images/02_Get_Started.png" width="500">
+<img src="images/02_Get_Started.png" width="700">
 
 5. 화면에서 Create application을 통해 Amazon Q Business를 쉽게 생성하실 수 있습니다.
-<img src="images/03_Create application.png" width="500">
+<img src="images/03_Create application.png" width="700">
