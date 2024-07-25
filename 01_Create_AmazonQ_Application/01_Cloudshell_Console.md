@@ -17,4 +17,4 @@ chmod +x deploy_cfn.sh
 3. Amazon Q Business Application 으로 생성될 이름과 **00_Prerequsites.md* 를 통해서 생성한 S3 명을 입력합니다.
 - Enter name for the Amazon Q Business Application (Hyphens (-) can be included, but not spaces):  myApplication
 - Enter name of the S3 Data Source Bucket:  BusinessSourceS3
-<img src="images/12_Run_CF_Stack_Script.png">
+<img src="images/13_CreateApplication.png">
