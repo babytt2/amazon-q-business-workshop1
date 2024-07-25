@@ -4,7 +4,7 @@
 ~~~
 git clone https://github.com/aws-samples/support-insights-with-amazon-q.git
 ~~~
-<img src="01_Create_AmazonQ_Application/images/11_Cratebucket.png">
+<img src="images/11_Cratebucket.png">
 
 2. src 디렉토리에서 Cloudㄹormation 배포를 위해 deploy_cfn.sh 파일에 실행 권한을 부여하고 실행합니다.
 ~~~
@@ -12,4 +12,4 @@ cd support-insights-with-amazon-q/src
 chmod +x deploy_cfn.sh
 ./deploy_cfn.sh
 ~~~
-<img src="01_Create_AmazonQ_Application/images/12_Run_CF_Stack_Script.png">
+<img src="images/12_Run_CF_Stack_Script.png">
