@@ -1,4 +1,4 @@
-# amazon-q-business-workshop1
+# Amazon-Q-Business-Workshop
 
 Amazon Q Business와 같은 AWS 생성 인공 지능(AI) 서비스를 AWS Support Case, AWS Trusted Advisor 및 AWS Status Data와 함께 사용하여 AWS를 사용하는 동안 일반적인 패턴, 문제 및 해결 방법을 찾을 수 있습니다.
 
