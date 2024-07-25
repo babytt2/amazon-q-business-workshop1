@@ -9,7 +9,9 @@ QSI(Q Support Insights)는 코드 샘플 저장소에 제공되는 솔루션의 
 ## Architecture Overview
 <img src="00_GetStart/images/QSI_architecture.png">
 <em>그림 1. QSI 솔루션 Architecture</em> 
-<br>
+<p>
+  
+</p>
 
 QSI 솔루션에는 두 가지 주요 구성 요소가 있습니다. 
 첫째, 그림 1의 연결된 계정 그룹에 설명된 것처럼 이 솔루션은 연결된 계정의 데이터 세트를 지원하고 다양한 API, AWS Lambda 및 Amazon EventBridge를 사용하여 데이터를 집계합니다. 
