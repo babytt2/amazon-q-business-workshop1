@@ -1,4 +1,4 @@
-# 실습 1: Amazon Q Business 핸즈온 시작하기
+# 실습 1: Amazon Q Business 시작하기
 ## Amazon Q Business Console 둘러보기
 
 Amazon Q Business 핸즈온 과정에서 참석해주셔서 감사합니다.
