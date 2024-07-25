@@ -18,3 +18,5 @@ chmod +x deploy_cfn.sh
 - Enter name for the Amazon Q Business Application (Hyphens (-) can be included, but not spaces):  **myApplication**
 - Enter name of the S3 Data Source Bucket:  **businesssources3**
 <img src="images/13_CreateApplication.png">
+
+
