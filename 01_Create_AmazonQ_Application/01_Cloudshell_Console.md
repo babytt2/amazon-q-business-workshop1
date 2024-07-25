@@ -19,4 +19,9 @@ chmod +x deploy_cfn.sh
 - Enter name of the S3 Data Source Bucket:  **businesssources3**
 <img src="images/13_CreateApplication.png">
 
+4. Amazon Q Business Console로 이동하여 Application이 생성된 것을 확인합니다.
+   3번에서 생성한 myApplication 이름으로 Amazon Q Business Application이 생성되었습니다.
+<img src="images/14_ApplicationCreationo_Complete.png">
 
+5. Application의 Data Sources에 qci-insight-datasource로 Data Source가 생성되었습니다. 
+<img src="images/15_S3_Source.png">
