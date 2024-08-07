@@ -14,9 +14,7 @@ chmod +x deploy_collector_lambda_member.sh
 Enter the bucket name for resource upload: businesssources3
 Enter the name of the S3 bucket in the management account: businesssources3
 <br>
-~~~
-businesssources3
-~~~
+
 <img src="images/11_Create_Resources.png">
 
 <br>
