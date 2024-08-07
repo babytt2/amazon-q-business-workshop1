@@ -4,7 +4,7 @@
 <img src="images/11_businessapplicaion.png">
 
 2. 생성한 IAM 계정으로 인증하여 App을 실행합니다.
-<img src="images/21_Qlogin.png">
+<img src="images/21_Qlogin.png" width="500">
 
 3. Business Prompt 창이 오픈됩니다.
 <img src="images/22_Webexperience.png">
@@ -13,9 +13,9 @@
 ~~~ 
 My lambda had an error? how can I fix it?
 ~~~
-<img src="images/23_prompt1.png">
+<img src="images/23_prompt1.png" width="700">
 
 ~~~
 Is there any notification related to IAM?
 ~~~
-<img src="images/23_prompt2.png">
+<img src="images/23_prompt2.png" width="700">
