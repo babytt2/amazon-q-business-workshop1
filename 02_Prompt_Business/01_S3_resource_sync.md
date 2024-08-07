@@ -13,4 +13,5 @@
 4. **qci-insights-datasource** 를 클릭하고 **Sync now** 버튼을 클릭하면 Crawling과 Indexing을 시작합니다.
 <img src="images/02_syncing.png">
 <br>
-
+5. Crawling, Indexing이 완료된 후 **Sync Complete** 된 것을 확인합니다.
+<img src="images/03_sync_complete.png"> 
