@@ -1,4 +1,4 @@
-# 실습 3. Lambda를 Test하여 Support Dataset을 S3로 가져옵니다.
+# 실습 3. Lambda를 Test하여 Support Dataset을 S3로 로딩
 
 1. IAM 콘솔 왼쪽 창에서 Roles에서 CF Stackset으로 생성된 Roles 중 **SupportinsightsLambda** 로 검색합니다.
 <img src="images/10_lambdarole.png" width="700">
