@@ -37,15 +37,17 @@
 6. Test event 창이 열리면 Event Name을 입력하고 Event JSON에 다음과 같이 입력합니다.
 <img src="images/14_lambda_test2.png" width="700">
 <br>
+
 ~~~
 {
-  "past_no_of_days": 2,
+   "past_no_of_days": 2,
   "bucket_name": "businesssources3",
   "case": true,
   "health": true,
   "ta": true
 }
 ~~~
+
 <br>
 <br>
 * Lambda 실행 시 다음과 같은 에러가 발생하면 Support plan이 Business 이하이기 때문에 데이터를 가져올 수 없습니다.
