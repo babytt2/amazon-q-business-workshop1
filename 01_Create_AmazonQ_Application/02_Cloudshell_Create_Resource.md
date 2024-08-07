@@ -1,4 +1,4 @@
-# 실습 2. Cloudshell을 통해 Support Dataset을 가져올 Lambda, EventBridge 생성
+# 실습 2. Cloudshell을 통해 Support Dataset의 주기적인 저장을 위한 Lambda, EventBridge 생성
 
 1. Cloudshell에서 다음 작업을 실행합니다.
 ~~~
