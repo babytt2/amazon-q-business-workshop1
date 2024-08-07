@@ -7,3 +7,8 @@ chmod +x deploy_collector_lambda_member.sh
 ./deploy_collector_lambda_member.sh
 ~~~
 <img src="images/11_GitClone_CF.png">
+
+
+2. 필요한 정보를 기입합니다.
+Enter the bucket name for resource upload:
+~~~
