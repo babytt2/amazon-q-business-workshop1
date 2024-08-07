@@ -14,7 +14,7 @@
 5. **Users** 에서 **Add or assign users and groups** 를 클릭하고 **Add or assign users and groups** 를 선택한 후 **Next** 버튼을 클릭합니다.
 <img src="images/13_assign_new_user.png" width="500">
 
-6. **Add bew users** 의 공란을 모두 기입한 후 **Next** 를 클릭합니다.
+6. **Add new users** 의 공란을 모두 기입한 후 **Next** 를 클릭합니다.
 
 7. 생성한 유저가 표시된 것을 확인한 후, **Assign** 버튼을 클릭합니다.
 
