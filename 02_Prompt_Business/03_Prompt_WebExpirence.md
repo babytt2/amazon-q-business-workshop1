@@ -15,6 +15,10 @@ My lambda had an error? how can I fix it?
 ~~~
 <img src="images/23_prompt1.png" width="700">
 
+**Sources** 와 연결된 번호를 클릭하면 관련된 정보를 확인할 수 있습니다.
+<img src="images/23_resources.png" width="700">
+
+5. Enter a prompt 창에 다른 질문을 질의해봅시다.
 ~~~
 Is there any notification related to IAM?
 ~~~
