@@ -13,15 +13,17 @@ chmod +x deploy_collector_lambda_member.sh
 <br>
 Enter the bucket name for resource upload: businesssources3
 Enter the name of the S3 bucket in the management account: businesssources3
+<br>
 ~~~
 businesssources3
 ~~~
 <img src="images/11_Create_Resources.png">
 
+<br>
 3. Resource 생성을 위한 CloudFormation Stackset이 배포된 것을 확인합니다.
 <img src="images/13_complete.png">
 
-
+<br>
 4. CloudFormation에서 필요한 Stacset이 배포되고 CREATE_COMPLETE 된 것을 확인합니다.
  Event Brigdge 및 LAmbda가 생성됩니다.
 <img src="images/12_CF_Complete.png">
