@@ -12,6 +12,7 @@ chmod +x deploy_collector_lambda_member.sh
 2. 필요한 정보를 기입합니다.
 <br>
 Enter the bucket name for resource upload: businesssources3
+<br>
 Enter the name of the S3 bucket in the management account: businesssources3
 <br>
 
